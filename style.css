@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    background: lightyellow;
+}
+
+header {
+    background-color: lightblue;
+    padding: 20px
+}
+
+header a {
+    border: 1px solid lightskyblue;
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: lightskyblue;
+    color: black;
+    padding: 3px;
+    margin-left: 100px;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    background-color: lightblue;
+}
+
+footer p {
+    background-color: mediumaquamarine;
+}
